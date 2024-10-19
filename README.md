@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating Android apps, Websites, and AI 
 - 🌱 I’m currently learning about [App development, Web development].
 - 💞️ I’m looking to collaborate on app development projects, web development initiatives, or AI projects.
-- 📫 How to reach me: abhinava8mar@gmail.com
+- 📫 How to reach me: abhinava8mar@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "I love exploring new tech trends!"  
 <!---
